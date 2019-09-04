@@ -1,2 +1,0 @@
-# MyReadingList
-Created with CodeSandbox
